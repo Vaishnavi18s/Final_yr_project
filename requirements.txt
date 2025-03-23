@@ -1,0 +1,10 @@
+streamlit
+langchain
+faiss-cpu
+PyPDF2
+pandas
+langchain-google-genai
+
+
+
+
