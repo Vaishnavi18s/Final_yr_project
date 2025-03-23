@@ -1,4 +1,1 @@
-## Create Virtual Environment:
-
-python -m venv myenv
-myenv/scripts/activate
+##The primary objective of this project is to develop an AI-driven Q&A system for Codebasics using Google Palm and LangChain to automate student support by providing real-time, contextually relevant responses to queries related to course content and technical issues. The system aims to enhance the learning experience by improving student engagement and reducing the workload on instructors. To achieve this, a Small Language Model (SLM) will be developed, capable of comprehending, retrieving, and generating accurate answers based on provided text. The project will focus on optimizing model performance, ensuring usability through clear documentation, and maintaining ethical AI practices by adhering to restrictions, such as avoiding prohibited APIs. Additionally, the system will facilitate seamless deployment, allowing for easy integration with educational platforms. By leveraging AI advancements, this project seeks to create an efficient, personalized, and scalable solution for automated learning support
